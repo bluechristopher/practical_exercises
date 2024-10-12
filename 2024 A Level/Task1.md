@@ -42,9 +42,11 @@ Write a program to set up the game for 2 players by:
 - creating a list for each player
 - randomly generating 10 cards (each with a colour and number) to each player's list.
 
+[4]
+
 Test your program by outputting the contents of each player's hand.
 
-[4]
+[1]
 
 ---
 
@@ -78,11 +80,13 @@ The appropriate numbers are added to each player's score until all of the 10 car
 
 Write a function to calculate and return the final score for each of the 2 players.
 
+[5]
+
 Test your program by:
 - outputting the sorted hand and the final score for player 1 on one line
 - outputting the sorted hand and the final score for player 2 on one line.
 
-[5]
+[1]
 
 ---
 
@@ -94,10 +98,14 @@ There must be a suitable output if there is a draw.
 
 All outputs must have an appropriate message.
 
-Test your program.
-
 [2]
 
----
+Test your program.
+
+[1]
+
+Save your Jupyter Notebook for Task 1.
+
+
 
 
