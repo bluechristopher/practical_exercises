@@ -1,7 +1,6 @@
-
-Name your Jupyter Notebook as:
-
-`TASK3_<your name>_<centre number>_<index number>.ipynb`
+>Name your Jupyter Notebook as:
+>
+>`TASK3_<your name>_<centre number>_<index number>.ipynb`
 
 
 # Task 3
