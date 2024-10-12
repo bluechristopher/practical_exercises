@@ -3,6 +3,7 @@
 As part of this activity, you will create, solve, and contribute programming tasks related to various concepts in computing. 
 
 >💡 **Ensure that you conform to the Cambridge 'A' Level writing style for the tasks, and that the topic(s) covered are in the H2 Computing syllabus.**
+>
 >Please look at the 2024 'A' Level Practical Tasks inside this repository to understand how tasks are phrased and structured.
 
 Follow the steps below to participate and make your contributions count!
@@ -10,8 +11,7 @@ Follow the steps below to participate and make your contributions count!
 ## Instructions for Participation
 
 ### Step 1: Fork the Repository
-1. Go to the GitHub repository where this challenge is hosted.
-2. Click the "Fork" button on the top-right corner to create a copy of the repository under your account.
+2. In this repository, click the "Fork" button on the top-right corner to create a copy of the repository under your GitHub account.
 
 ### Step 2: Create a New Task
 1. Navigate to the **`Student Created Tasks`** folder in your forked repository.
@@ -33,7 +33,7 @@ Follow the steps below to participate and make your contributions count!
 2. Go to the original repository and create a **Pull Request** (PR):
 - Click the "New Pull Request" button.
 - Select your forked branch and create a PR that includes your task and solution.
-- In the PR description, briefly explain your contribution.
+- In the PR description, explain your contribution.
 
 3. Make sure to create the pull request **within October** to qualify for Hacktoberfest.
 
