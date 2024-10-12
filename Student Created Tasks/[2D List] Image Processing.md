@@ -27,6 +27,7 @@ To convert to monochrome:
 Test your program by outputting the first 5 rows of the monochrome image.
 
 For example, the **first** row should be:
+
 `[85, 170, 140, 85, 85, 85, 216, 216, 170, 85, 85, 170, 85, 85, 85, 85, 85, 140, 170, 170]`
 
 ---
@@ -43,6 +44,7 @@ The function should:
 Test your program by outputting the first 5 rows of the blurred image.
 
 For example, the **second** row should be:
+
 `[170, 147, 147, 119, 94, 123, 157, 182, 143, 125, 116, 128, 131, 116, 103, 100, 106, 130, 134, 170]`
 
 ---
