@@ -41,6 +41,8 @@ Follow the steps below to participate and make your contributions count!
 - The maintainer will review your PR.
 - If the task meets the repository's guidelines and passes the review, your PR will be merged into the main repository.
 
+---
+
 ### Contribution Guidelines
 - Ensure that your task is original and clearly described.
 - Use markdown formatting properly when creating your task description. You can look at the existing sample.
