@@ -1,3 +1,8 @@
+Name your Jupyter Notebook as:
+
+`TASK1_<your name>_<centre number>_<index number>.ipynb`
+
+
 # Task 1
 
 A game designer is designing a game for 2 players and needs you to program a prototype.
@@ -26,10 +31,11 @@ If both colours are the same:
 
 For each of the sub-tasks, add a comment statement at the beginning of the code, using the hash symbol `#`, to indicate the sub-task the program code belongs to, for example:
 
-```python
+<pre>
 # Task 1.1
 Program code
-```
+</pre>
+
 ## Task 1.1
 
 Write a program to set up the game for 2 players by:
@@ -91,8 +97,7 @@ All outputs must have an appropriate message.
 Test your program.
 
 [2]
+
 ---
 
-Save your Jupyter Notebook for Task 1 as:
 
-`TASK1_<your name>_<centre number>_<index number>.ipynb`
