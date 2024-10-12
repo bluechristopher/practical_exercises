@@ -7,6 +7,8 @@ As part of this activity, you will create, solve, and contribute programming tas
 >Please look at the 2024 'A' Level Practical Tasks inside this repository to understand how tasks are phrased and structured.
 
 ---
+![Banner](https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png)
+---
 
 Follow the steps below to participate and make your contributions count!
 
