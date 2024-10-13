@@ -5,7 +5,7 @@
 ![Banner](https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png)
 ---
 
-As part of the Hacktoberfest Challenge, you will create, solve, and contribute programming tasks related to various concepts in computing. 
+As part of Hacktoberfest Challenge 2024, you will create, solve, and contribute programming tasks related to various concepts in computing. 
 
 💡 **Ensure that the the tasks that you create are within the constraints of the H2 Computing syllabus.**\
 💡 **Ensure that you conform to the Cambridge 'A' Level writing style for the tasks.**
