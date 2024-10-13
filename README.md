@@ -3,9 +3,11 @@
 
 As part of this activity, you will create, solve, and contribute programming tasks related to various concepts in computing. 
 
->💡 **Ensure that you conform to the Cambridge 'A' Level writing style for the tasks, and that the topic(s) covered are in the H2 Computing syllabus.**
->
->Please look at the 2024 'A' Level Practical Tasks inside this repository to understand how tasks are phrased and structured.
+
+💡 **Ensure that the the tasks that you create are within the constraints of the H2 Computing syllabus.**\
+💡 **Ensure that you conform to the Cambridge 'A' Level writing style for the tasks.**
+
+Do look at the 2024 'A' Level Practical Tasks (inside this repository) to understand how tasks are phrased and structured.
 
 ---
 ![Banner](https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png)
