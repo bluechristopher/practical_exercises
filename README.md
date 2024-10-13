@@ -1,4 +1,5 @@
-# Hacktoberfest Challenge: Contribute to 'Student Created Tasks'
+# Hacktoberfest Challenge: Let's contribute to this repository!
+>*Discere Servire – Non Mihi Solum* [To Learn, To Serve – Not for Myself Alone]
 
 As part of this activity, you will create, solve, and contribute programming tasks related to various concepts in computing. 
 
