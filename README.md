@@ -18,6 +18,10 @@ Follow the steps below to participate and make your contributions count!
 
 ## Instructions for Participation
 
+### Step 0: Register for Hacktoberfest 2024
+You will need to first sign up for Hacktoberfest [here](https://hacktoberfest.com/auth/)!
+
+
 ### Step 1: Fork the Repository
 2. In this repository, click the "Fork" button on the top-right corner to create a copy of the repository under your GitHub account.
 
