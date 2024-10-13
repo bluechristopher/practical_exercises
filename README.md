@@ -21,6 +21,8 @@ Follow the steps below to participate and make your contributions count!
 ### Step 0: Register for Hacktoberfest 2024
 You will need to first sign up for Hacktoberfest at [https://hacktoberfest.com/auth/](https://hacktoberfest.com/auth/)!
 
+Take note that you will need at least 4 approved pull requests done within October to be certified.
+
 
 ### Step 1: Fork the Repository
 2. In this repository, click the "Fork" button on the top-right corner to create a copy of the repository under your GitHub account.
