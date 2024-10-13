@@ -56,6 +56,7 @@ For example, the **first two rows** should be:
 ## Task 1.4
 
 Write a procedure `write_monochrome(filename, data)` to save the processed 2D list of monochrome pixel values to a text file.
+
 ---
 
 The monochrome pixel values should be separated by a single space.
