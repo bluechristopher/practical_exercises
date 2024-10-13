@@ -12,9 +12,11 @@ As part of the Hacktoberfest Challenge, you will create, solve, and contribute p
 
 Do look at the 2024 'A' Level Practical Tasks (inside this repository) to understand how tasks are phrased and structured.
 
-
+---
 
 Follow the steps below to participate and make your contributions count!
+
+---
 
 ## Instructions for Participation
 
