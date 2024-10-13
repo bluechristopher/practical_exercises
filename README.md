@@ -1,4 +1,4 @@
-# Hacktoberfest Challenge: Let's contribute to this repository!
+# ASR Hacktoberfest Challenge: Let's contribute to this repository!
 >*Discere Servire – Non Mihi Solum* [To Learn, To Serve – Not for Myself Alone]
 
 ---
