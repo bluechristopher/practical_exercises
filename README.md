@@ -19,7 +19,7 @@ Follow the steps below to participate and make your contributions count!
 ## Instructions for Participation
 
 ### Step 0: Register for Hacktoberfest 2024
-You will need to first sign up for Hacktoberfest at [(https://hacktoberfest.com/auth/)](https://hacktoberfest.com/auth/)!
+You will need to first sign up for Hacktoberfest at [https://hacktoberfest.com/auth/](https://hacktoberfest.com/auth/)!
 
 
 ### Step 1: Fork the Repository
