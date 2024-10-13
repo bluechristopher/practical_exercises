@@ -38,7 +38,7 @@ You will need to first sign up for Hacktoberfest at [https://hacktoberfest.com/a
 1. Solve the task you have created by writing a Python solution.
 2. You can write your solution in either `.py` file or `.ipynb` file.
 3. Place your solution in the **`Solutions`** folder, saving the file in the format:
-   ``[<Concepts Covered>] <Task Title> SOLUTION.ipynb`
+   `[<Concepts Covered>] <Task Title> SOLUTION.ipynb`
 
 ### Step 5: Create a Pull Request (PR)
 1. After completing your task and solution, push the changes to your forked repository.
