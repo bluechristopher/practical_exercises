@@ -58,6 +58,12 @@ Follow the steps below to participate and make your contributions count!
 
 ---
 
+You can do multiple pull requests for this repository. Just make sure that there is quality additions / updates in each pull request.
+
+Strive to hit **at least 4 pull requests in October** to have your participation certified!
+
+---
+
 ### Contribution Guidelines
 - Ensure that your task is original and clearly described.
 - Use markdown formatting properly when creating your task description. You can look at the existing sample.
