@@ -61,10 +61,10 @@ For example, the **first two rows** should be:
 
 ## Task 1.4
 
-Write a Python function `write_monochrome(filename, data)` to save the processed 2D list of monochrome pixel values to a text file.
+Write a procedure `write_monochrome(filename, data)` to save the processed 2D list of monochrome pixel values to a text file.
 
 The monochrome pixel values should be separated by a single space.
 
-Test your program by saving both the monochrome and blurred image data into `monochrome.txt` and `blurred.txt` respectively.
+Test your procedure by saving both the monochrome and blurred image data into `monochrome.txt` and `blurred.txt` respectively.
 
 ---
