@@ -10,7 +10,7 @@ Below shows a sample of these two image operations.
 
 ## Task 1.1
 
-Write a Python function `read_pixels(filename)` to read the pixel data from the file `image.txt`. Each pixel's data is stored as an `(R, G, B)` tuple, and the pixels are arranged in rows. 
+Write a Python function `read_pixels(filename)` to read the pixel data from the file `image.txt`. Each pixel's data is stored as an `(R, G, B)` tuple, and the pixels are arranged in rows.
 
 Your function should:
 - read the file `image.txt` containing the pixel data
@@ -55,13 +55,12 @@ For example, the **first two rows** should be:
 [85, 170, 140, 85, 85, 85, 216, 216, 170, 85, 85, 170, 85, 85, 85, 85, 85, 140, 170, 170]
 [170, 147, 147, 119, 94, 123, 157, 182, 143, 125, 116, 128, 131, 116, 103, 100, 106, 130, 134, 170]
 ```
-
-
 ---
 
 ## Task 1.4
 
 Write a procedure `write_monochrome(filename, data)` to save the processed 2D list of monochrome pixel values to a text file.
+---
 
 The monochrome pixel values should be separated by a single space.
 
