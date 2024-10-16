@@ -2,6 +2,9 @@
 
 You are provided with a text file `image.txt` containing the RGB values of a coloured image. The pixel data is stored in a 2D array format where each element represents a pixel's colour using a tuple of three integers (R, G, B). Your task is to read the pixel data, store it in a 2D list, and then perform image processing operations such as changing it to monochrome and applying Gaussian blur.
 
+![image](https://github.com/user-attachments/assets/349d6e41-bad0-41aa-93c2-040cdf959e75)
+
+
 ---
 
 ## Task 1.1
