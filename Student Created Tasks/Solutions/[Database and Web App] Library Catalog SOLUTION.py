@@ -12,7 +12,7 @@ html = """
         <meta charset="utf-8">
         <style>
             body {
-                font-family: Arial, sans-serif;
+                font-family: Arial;
             }
             table {
                 width: 100%;
@@ -41,22 +41,26 @@ html = """
         </form>
         <br>
         <h2>Results</h2>
-        <table>
-            <tr>
-                <th>Title</th>
-                <th>Description</th>
-                <th>Author</th>
-                <th>Copies</th>
-            </tr>
-            {% for book in books %}
-            <tr>
-                <td>{{ book[1] }}</td>
-                <td>{{ book[4] }}</td>
-                <td>{{ book[-2] + " " + book[-1] }}</td>
-                <td>{{ book[-6] }}</td>
-            </tr>
-            {% endfor %}
-        </table>
+        {% if book_count == 0 %}
+            <p> No books found </p>
+        {% else %}
+            <table>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Author</th>
+                    <th>Copies</th>
+                </tr>
+                {% for book in books %}
+                <tr>
+                    <td>{{ book[1] }}</td>
+                    <td>{{ book[4] }}</td>
+                    <td>{{ book[-2] + " " + book[-1] }}</td>
+                    <td>{{ book[-6] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        {% endif %}
     </body>
 </html>
 """
@@ -127,9 +131,11 @@ def home():
     books = cursor.fetchall()
     #print(books)
 
+    book_count = len(books)
+
     conn.close()
 
-    return render_template('index.html', books=books)
+    return render_template('index.html', books=books, book_count=book_count)
 
 if __name__ == '__main__':
     app.run(debug=True)
