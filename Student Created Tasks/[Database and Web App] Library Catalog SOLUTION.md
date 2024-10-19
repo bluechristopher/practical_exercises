@@ -2,8 +2,11 @@
 You have been tasked with creating a web application for a local library that allows users to search for books based on title or author. The library maintains a database called `LIBRARY.db`, which contains the following tables:
 
 Author(<u>author_id</u>, first_name, last_name)
+
 Book(<u>book_id</u>, title, isbn13, isbn10, description, copies)
+
 AuthorBook(<u>author_id, book_id</u>)
+
 Foriegn Key: author_id references Author(author_id) and book_id references Book(book_id)
 
 Users of the application will be able to search for books and view key information, such as the title, author, description, and the number of copies available. If a book is not found, the application should display a message stating that the book is unavailable.
