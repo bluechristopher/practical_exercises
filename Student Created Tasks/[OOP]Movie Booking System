@@ -40,7 +40,7 @@ Test your code by reducing number of seats of 'The Dark Knight' by 3 for the 8:0
 
 Create a new class 'Booking' that stores the user's name, movie title and number of seats purchased
 The class should include the methods:
-- 'confirm_booking()': Ensures that the booking is valid before going into the system and removes seats purchased from seats available.
+- 'confirm_booking()': Returns 'True' if booking is valid and removes seats purchased from seats available. Otherwise, return False. Prints appropriate messages for success or failure
 - 'cal_price()': Calculates the total price of the seats purchased. 
 Number of bookings should not be negative or exceed the number of available seats for each given screening time.
 
