@@ -7,7 +7,7 @@ A Pokemon() class has the following attributes
 - attack_multi (the attack multipler)
 
 The class also has a method attack(attacked_pokemon) where attacked_pokemon parameter is another pokemon object. 
-The method reduces the health of the enemy_pokemon by the attack_dmg of the attacking pokemon minus the block_pts of the attacked pokemon.
+The method reduces the health of the attacked_pokemon by the attack_dmg of the attacking pokemon minus the block_pts of the attacked pokemon.
 However, if the type of attacking pokemon is 'stronger' than the type of the attacked pokemon, the attack_dmg will be multiplied by attack_multi of the attacking pokemon.
 
 Below is a circular list of the pokemon types that are 'stronger' than the adjacent types to the right: 
