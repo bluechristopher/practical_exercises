@@ -32,5 +32,5 @@ Add a form below the table that allows the user to enter a production with the f
 - Quantity
 - Quality
 - MachineID
-- 
+
 Use program code in the server (including database querying) to validate if any good in the database and machine matches the respective IDs. Insert the new production if both IDs match. Display a suitable message for both cases.
