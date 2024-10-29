@@ -1,5 +1,6 @@
 # Task 1
 A Pokemon() class has the following attributes
+- name
 - type
 - attack_dmg (the attack damage)
 - block_pts (the points of damage blocked when attacked)
