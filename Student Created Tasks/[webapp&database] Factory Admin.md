@@ -14,6 +14,7 @@ Create a table "Production" which contains the details of each production in the
 - MachineID
 - Quantity
 - Quality
+- DateProduced
 
 Create a table "Machine" which contains the details of each machine in the factory:
 - MachineID (auto incremented)
@@ -26,11 +27,14 @@ Create a Web Application that executes an appropriate query and displays a table
 Add a form for each row that allows the user to delete the production.
 
 # Task 3
-Add a form below the table that allows the user to enter a production with the following details:
+Add another table that displays all the information from "Good" table.
+
+Add a form below that table that allows the user to enter a production with the following details:
 - GoodID
 - Category
 - Quantity
 - Quality
+- DateProduced
 - MachineID
 
 Use program code in the server (including database querying) to validate if any good in the database and machine matches the respective IDs. Insert the new production if both IDs match. Display a suitable message for both cases.
