@@ -1,5 +1,5 @@
 # Task 1
 A Pokemon has the following attributes:
-* type
-* attack_dmg (attack damage)
-* block_points (number of damage pokemon can block)
+- type
+- attack_dmg (attack damage)
+- block_points (number of damage pokemon can block)
