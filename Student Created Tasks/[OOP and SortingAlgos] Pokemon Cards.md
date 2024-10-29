@@ -12,3 +12,5 @@ However, if the type of attacking pokemon is 'stronger' than the type of the att
 Below is a circular list of the pokemon types that are 'stronger' than the adjacent types to the right: 
 
 ["fire", "ice", "ground", "electric", "water"]
+
+Create the Pokemon() class and add the constructor and the additional method. [5]
