@@ -23,7 +23,9 @@ The file pokemon.txt contains rows of attributes from the Pokemon() class
 - Read data from pokemon.txt
 - Create a list of Pokemon objects
 - Use insertion sort to sort the list by type
-- Use bubble sort to sort the same list by attack_dmg
+- Use bubble sort to sort the sorted list by attack_dmg (sorry for the mouthful)
 - Print the details of each pokemon in the sorted list using appropriate method(s) from the pokemon() class
+- Print a string that explains why quick sort and merge sort are not appropriate in this context
+[8]
 
 Save your file.
