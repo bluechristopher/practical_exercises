@@ -17,16 +17,19 @@ Create a table "Production" which contains the details of each production in the
 - DateProduced
 
 Create a table "Machine" which contains the details of each machine in the factory:
-- MachineID (auto incremented)
+- MachineID
 - MachineName
 - Status
 
 # Task 2
+Insert data from GOODS.txt and MACHINE.txt into the respective tables.
+
+# Task 3
 Create a Web Application that executes an appropriate query and displays a table containing ProductionID, GoodName, Quantity, Quality, MachineName and Status for each production.
 
 Add a form for each row that allows the user to delete the production.
 
-# Task 3
+# Task 4
 Add another table that displays all the information from "Good" table.
 
 Add a form below that table that allows the user to enter a production with the following details:
