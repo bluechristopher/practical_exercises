@@ -1,0 +1,36 @@
+# Task 1: Sorting Food Dishes according to how an avid gym goer would
+You will perform sorting tasks using basic lists and algorithms, focused on nutritional information for food dishes. The data is represented as lists of tuples, where each tuple contains details about a food dish (e.g., name, calories, protein content, and servings). The tasks cover core sorting methods and a real-world application for filtering and sorting based on protein content.
+
+## Task 1.1: Setting Up the Data
+Using the data in food_data.txt, where each line contains a food item’s details in the following format: dish_name, calories, protein, servings
+
+
+Write a function read_food_data(filename) that:
+Reads the data from food_data.txt. Splits each line into the required attributes (dish_name, calories, protein, servings) and converts calories, protein, and servings to integers. Stores the data as a list of tuples and returns it. Print the first 5 items in the list to verify that each dish is represented accurately.
+
+food_dishes = [
+    ("Salad", 150, 5, 2),
+    ("Pasta", 400, 12, 4),
+    ("Burger", 600, 25, 1),
+    ("Smoothie", 200, 8, 1),
+    ("Lasagna", 500, 20, 2)
+]
+
+
+## Task 1.2
+Implement an in-place sorting algorithm to sort the list by calories.
+
+Write a function sort_by_calories(dishes) that sorts food_dishes by calories in ascending order using any in-place sort.
+Then print the sorted list and verify the order by calories.
+
+Example Output:
+[("Salad", 150, 5, 2), ("Smoothie", 200, 8, 1), ("Pasta", 400, 12, 4), ("Burger", 600, 25, 1)]
+
+## Task 1.3
+Suppose a gymgoer wants to find the "top 3 high-protein dishes" from the list. Write a function top3_highest_protein(dishes) that:
+
+Sorts dishes by protein in descending order to prioritize higher protein content. Filters dishes with a protein content of 10 grams or more. Returns the top 3 dishes by protein content. Then print the top 3 high-protein dishes to verify they meet both the protein and filtering criteria.
+
+Example Output:
+
+[("Burger", 600, 25, 1), ("Pasta", 400, 12, 4), ("Smoothie", 200, 8, 1)]
