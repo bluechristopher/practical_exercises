@@ -1,0 +1,50 @@
+# Task 1: K-pop Group Management with OOP
+You will design a Python program to model K-pop groups using Object-Oriented Programming (OOP). This task will cover key OOP principles such as class creation, encapsulation, polymorphism, and inheritance. You will represent the groups using these principles and perform operations on their data.
+
+## Task 1.1: Defining the KpopGroup Class and Creating Instances
+Write a Python class KpopGroup to represent a K-pop group with basic attributes.
+
+Your class should:
+
+Define the following attributes:
+name: the group name
+debut_year: the year the group debuted
+members: the number of members
+agency: the agency managing the group
+Implement getter methods for each attribute.
+Implement a display_info() method that outputs the group’s details in a formatted string.
+Testing:
+Create instances of KpopGroup for at least three groups (e.g., BabyMonster, SEVENTEEN, 2NE1). Test the display_info() method by outputting the details of each group.
+
+## Task 1.2: Implementing Encapsulation with Getters and Setters
+Add encapsulation to the KpopGroup class by adding getter and setter methods for each attribute.
+
+For each private attribute, add a getter method to retrieve the value.
+Add setter methods with basic validation:
+debut_year should be a positive integer.
+members should be a positive integer.
+agency should be a non-empty string.
+Test each setter method by modifying values and using the getter methods to confirm the updates.
+Testing:
+Modify each attribute using the setter methods, and print the values using the getter methods.
+
+## Task 1.3: Demonstrating Polymorphism with the introduce() Method
+Demonstrate polymorphism by creating specialized group classes.
+
+Add a method introduce() in KpopGroup that returns a generic introduction (e.g., “We are [name], a popular K-pop group!”).
+Create two subclasses, BoyGroup and GirlGroup, each overriding the introduce() method with unique messages:
+BoyGroup: e.g., “We are [name], a boy group with [members] members under [agency].”
+GirlGroup: e.g., “We are [name], a girl group that debuted in [debut_year] with hits under [agency].”
+Test polymorphism by calling introduce() on instances of KpopGroup, BoyGroup, and GirlGroup.
+Testing:
+Create instances of BoyGroup and GirlGroup, then call the introduce() method on each instance and observe the unique introductions.
+
+## Task 1.4: Implementing Inheritance with a SubUnit Class
+Showcase inheritance by creating a subclass to represent a subunit within a K-pop group.
+
+Define a subclass SubUnit that inherits from KpopGroup.
+Add an additional attribute unit_name to represent the name of the subunit (e.g., BABYMONSTER’s Ruka and Ahyeon as "Ruyeon").
+Override the introduce() method to include both the group name and subunit name.
+Test inheritance by creating an instance of SubUnit and calling introduce().
+Testing:
+Create an instance of SubUnit with unit_name specified, and call introduce() to confirm it displays the subunit's name along with the group name.
