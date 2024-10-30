@@ -17,7 +17,7 @@ Testing:
 Create instances of KpopGroup for at least three groups (e.g., BabyMonster, SEVENTEEN, 2NE1). Test the display_info() method by outputting the details of each group.
 
 ## Task 1.2: Implementing Encapsulation with Getters and Setters
-Add encapsulation to the KpopGroup class by adding getter and setter methods for each attribute.
+Add getter and setter methods for each private attributes.
 
 For each private attribute, add a getter method to retrieve the value.
 Add setter methods with basic validation:
