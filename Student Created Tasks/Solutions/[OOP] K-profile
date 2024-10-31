@@ -1,0 +1,134 @@
+# Task 1.1
+
+class KpopGroup:
+    def __init__(self, name, debut_year, members, agency):
+        self._name = name
+        self._debut_year = debut_year
+        self._members = members
+        self._agency = agency
+
+    ## Getters
+    def get_name(self):
+        return self._name
+
+    def get_debut_year(self):
+        return self._debut_year
+
+    def get_members(self):
+        return self._members
+
+    def get_agency(self):
+        return self._agency
+
+    ## Display group details
+    def display_info(self):
+        return (f"Group Name: {self.get_name()}\n"
+                f"Debut Year: {self.get_debut_year()}\n"
+                f"Members: {self.get_members()}\n"
+                f"Agency: {self.get_agency()}\n")
+
+## Testing
+babymonster = KpopGroup("BabyMonster", 2023, 5, "YG Entertainment")
+seventeen = KpopGroup("SEVENTEEN", 2015, 13, "Pledis Entertainment")
+two_ne1 = KpopGroup("2NE1", 2009, 4, "YG Entertainment")
+
+print(babymonster.display_info())
+print(seventeen.display_info())
+print(two_ne1.display_info())
+
+# Task 1.2
+
+class KpopGroup:
+    def __init__(self, name, debut_year, members, agency):
+        self._name = name
+        self._debut_year = debut_year
+        self._members = members
+        self._agency = agency
+
+    ## Getters
+    def get_name(self):
+        return self._name
+
+    def get_debut_year(self):
+        return self._debut_year
+
+    def get_members(self):
+        return self._members
+
+    def get_agency(self):
+        return self._agency
+
+    ## Setters with Validation
+    def set_debut_year(self, debut_year):
+        if isinstance(debut_year, int) and debut_year > 0:
+            self._debut_year = debut_year
+        else:
+            print("Invalid debut year.")
+
+    def set_members(self, members):
+        if isinstance(members, int) and members > 0:
+            self._members = members
+        else:
+            print("Invalid number of members.")
+
+    def set_agency(self, agency):
+        if isinstance(agency, str) and agency:
+            self._agency = agency
+        else:
+            print("Invalid agency name.")
+
+    ## Display group details
+    def display_info(self):
+        return (f"Group Name: {self.get_name()}\n"
+                f"Debut Year: {self.get_debut_year()}\n"
+                f"Members: {self.get_members()}\n"
+                f"Agency: {self.get_agency()}\n")
+
+## Testing 
+babymonster = KpopGroup("BabyMonster", 2023, 5, "YG Entertainment")
+babymonster.set_members(6)
+babymonster.set_debut_year(2023)
+babymonster.set_agency("YG Ent.")
+print(babymonster.display_info())
+
+# Task 1.3
+
+class KpopGroup:
+    def __init__(self, name, debut_year, members, agency):
+        self._name = name
+        self._debut_year = debut_year
+        self._members = members
+        self._agency = agency
+
+    def introduce(self):
+        return f"We are {self._name}, a popular K-pop group!"
+
+## Changing the behaviour of the methods according to the group gender
+class BoyGroup(KpopGroup):
+    def introduce(self):
+        return f"We are {self._name}, a boy group with {self._members} members under {self._agency}."
+
+class GirlGroup(KpopGroup):
+    def introduce(self):
+        return f"We are {self._name}, a girl group that debuted in {self._debut_year} with hits under {self._agency}."
+
+## Testing
+bts = BoyGroup("BTS", 2013, 7, "Big Hit Entertainment")
+blackpink = GirlGroup("BLACKPINK", 2016, 4, "YG Entertainment")
+print(bts.introduce())
+print(blackpink.introduce())
+
+# Task 1.4
+
+## inheriting from the KpopGroup
+class SubUnit(KpopGroup):
+    def __init__(self, name, debut_year, members, agency, unit_name):
+        super().__init__(name, debut_year, members, agency)
+        self.unit_name = unit_name
+
+    def introduce(self):
+        return f"We are {self.unit_name}, a subunit of {self._name}!"
+
+# Testing Inheritance
+ruyeon = SubUnit("BABYMONSTER", 2024, 2, "YG Entertainment", "Ruyeon")
+print(ruyeon.introduce())
