@@ -1,0 +1,5 @@
+MachineID,MachineName,Status
+4,JustOneSaw,working
+9,Roller,working
+3,Drill,faulty
+7,Clipper,faulty
