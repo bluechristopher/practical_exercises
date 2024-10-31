@@ -52,3 +52,15 @@ with open("GOODS.txt", "r") as file:
             INSERT INTO Good (GoodID, GoodName, Category)
             VALUES (?, ?, ?);
         ''', row)
+
+# machine table
+# file closes after with block
+with open("MACHINE.txt", "r") as file:
+    reader = csv.reader(file)
+    next(reader)
+
+    for row in reader:
+        cursor.execute('''
+            INSERT INTO Machine (MachineID, MachineName, Status)
+            VALUES (?, ?, ?);
+        ''', row)
