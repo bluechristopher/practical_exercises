@@ -1,0 +1,501 @@
+Name	CG	Subject	Grade
+Jesse Smith	25/03	Math	A
+Jesse Smith	25/03	Further Math	B
+Jesse Smith	25/03	Physics	A
+Jesse Smith	25/03	Geography	S
+Jesse Smith	25/03	GP	A
+Christopher Mcdonald	25/03	Math	S
+Christopher Mcdonald	25/03	Further Math	E
+Christopher Mcdonald	25/03	Chemistry	B
+Christopher Mcdonald	25/03	Literature	C
+Christopher Mcdonald	25/03	GP	B
+Carrie Sparks	25/05	Math	D
+Carrie Sparks	25/05	Chemistry	U
+Carrie Sparks	25/05	Computing	U
+Carrie Sparks	25/05	Economics	A
+Carrie Sparks	25/05	GP	D
+Patrick Smith	25/04	Math	B
+Patrick Smith	25/04	Chemistry	B
+Patrick Smith	25/04	Physics	E
+Patrick Smith	25/04	History	A
+Patrick Smith	25/04	GP	C
+Katie Castro	25/01	Math	U
+Katie Castro	25/01	Chemistry	B
+Katie Castro	25/01	Further Math	D
+Katie Castro	25/01	Literature	B
+Katie Castro	25/01	GP	C
+Michele Allen	25/05	Math	B
+Michele Allen	25/05	Chemistry	C
+Michele Allen	25/05	Computing	C
+Michele Allen	25/05	Literature	B
+Michele Allen	25/05	GP	E
+Kaitlyn Price	25/03	Math	D
+Kaitlyn Price	25/03	Further Math	B
+Kaitlyn Price	25/03	Computing	A
+Kaitlyn Price	25/03	Economics	A
+Kaitlyn Price	25/03	GP	B
+Charles Davis	25/02	Math	B
+Charles Davis	25/02	Further Math	B
+Charles Davis	25/02	Computing	E
+Charles Davis	25/02	Literature	B
+Charles Davis	25/02	GP	S
+Wendy Reyes	25/03	Math	B
+Wendy Reyes	25/03	Further Math	A
+Wendy Reyes	25/03	Physics	E
+Wendy Reyes	25/03	History	C
+Wendy Reyes	25/03	GP	B
+Carl Sheppard	25/03	Math	B
+Carl Sheppard	25/03	Further Math	A
+Carl Sheppard	25/03	Computing	E
+Carl Sheppard	25/03	Literature	C
+Carl Sheppard	25/03	GP	D
+Joe Castillo	25/01	Math	D
+Joe Castillo	25/01	Physics	E
+Joe Castillo	25/01	Further Math	A
+Joe Castillo	25/01	History	A
+Joe Castillo	25/01	GP	B
+Krista Garcia	25/05	Math	B
+Krista Garcia	25/05	Chemistry	D
+Krista Garcia	25/05	Computing	D
+Krista Garcia	25/05	Literature	D
+Krista Garcia	25/05	GP	B
+Justin Becker	25/02	Math	D
+Justin Becker	25/02	Further Math	B
+Justin Becker	25/02	Physics	U
+Justin Becker	25/02	Geography	B
+Justin Becker	25/02	GP	E
+April Osborne	25/05	Math	U
+April Osborne	25/05	Further Math	E
+April Osborne	25/05	Chemistry	S
+April Osborne	25/05	Geography	U
+April Osborne	25/05	GP	E
+Thomas Stewart	25/03	Math	B
+Thomas Stewart	25/03	Computing	E
+Thomas Stewart	25/03	Further Math	C
+Thomas Stewart	25/03	Literature	B
+Thomas Stewart	25/03	GP	U
+Alexandra Contreras	25/02	Math	C
+Alexandra Contreras	25/02	Chemistry	S
+Alexandra Contreras	25/02	Physics	B
+Alexandra Contreras	25/02	History	B
+Alexandra Contreras	25/02	GP	B
+Courtney Butler	25/03	Math	B
+Courtney Butler	25/03	Further Math	E
+Courtney Butler	25/03	Computing	A
+Courtney Butler	25/03	Literature	B
+Courtney Butler	25/03	GP	C
+Ashley Guzman	25/04	Math	D
+Ashley Guzman	25/04	Computing	B
+Ashley Guzman	25/04	Physics	E
+Ashley Guzman	25/04	Economics	A
+Ashley Guzman	25/04	GP	C
+Sherri Patterson	25/04	Math	C
+Sherri Patterson	25/04	Computing	B
+Sherri Patterson	25/04	Chemistry	A
+Sherri Patterson	25/04	Geography	E
+Sherri Patterson	25/04	GP	B
+Kenneth Carter	25/05	Math	A
+Kenneth Carter	25/05	Further Math	S
+Kenneth Carter	25/05	Chemistry	B
+Kenneth Carter	25/05	History	B
+Kenneth Carter	25/05	GP	D
+Scott Roberts	25/05	Math	B
+Scott Roberts	25/05	Further Math	A
+Scott Roberts	25/05	Computing	B
+Scott Roberts	25/05	History	A
+Scott Roberts	25/05	GP	E
+Christopher Ross	25/03	Math	E
+Christopher Ross	25/03	Computing	D
+Christopher Ross	25/03	Chemistry	B
+Christopher Ross	25/03	Literature	A
+Christopher Ross	25/03	GP	A
+Tamara Hansen	25/02	Math	E
+Tamara Hansen	25/02	Physics	A
+Tamara Hansen	25/02	Computing	B
+Tamara Hansen	25/02	Literature	S
+Tamara Hansen	25/02	GP	A
+Keith Edwards	25/05	Math	D
+Keith Edwards	25/05	Further Math	A
+Keith Edwards	25/05	Physics	D
+Keith Edwards	25/05	History	B
+Keith Edwards	25/05	GP	B
+Devin Smith	25/05	Math	B
+Devin Smith	25/05	Physics	A
+Devin Smith	25/05	Chemistry	B
+Devin Smith	25/05	Literature	S
+Devin Smith	25/05	GP	B
+Kelly Torres	25/02	Math	C
+Kelly Torres	25/02	Further Math	B
+Kelly Torres	25/02	Physics	U
+Kelly Torres	25/02	Literature	C
+Kelly Torres	25/02	GP	A
+James Curtis	25/03	Math	B
+James Curtis	25/03	Further Math	A
+James Curtis	25/03	Computing	A
+James Curtis	25/03	History	U
+James Curtis	25/03	GP	C
+Stephanie Garcia	25/04	Math	A
+Stephanie Garcia	25/04	Further Math	A
+Stephanie Garcia	25/04	Chemistry	U
+Stephanie Garcia	25/04	History	C
+Stephanie Garcia	25/04	GP	A
+Michael Sharp	25/03	Math	A
+Michael Sharp	25/03	Computing	E
+Michael Sharp	25/03	Chemistry	B
+Michael Sharp	25/03	Geography	D
+Michael Sharp	25/03	GP	B
+Darlene Garner	25/05	Math	D
+Darlene Garner	25/05	Further Math	S
+Darlene Garner	25/05	Physics	B
+Darlene Garner	25/05	Literature	A
+Darlene Garner	25/05	GP	S
+Christian Fleming	25/02	Math	U
+Christian Fleming	25/02	Computing	C
+Christian Fleming	25/02	Physics	A
+Christian Fleming	25/02	Literature	A
+Christian Fleming	25/02	GP	A
+Darryl Harris	25/04	Math	A
+Darryl Harris	25/04	Further Math	U
+Darryl Harris	25/04	Computing	D
+Darryl Harris	25/04	History	S
+Darryl Harris	25/04	GP	D
+Thomas Fowler	25/04	Math	U
+Thomas Fowler	25/04	Computing	D
+Thomas Fowler	25/04	Physics	U
+Thomas Fowler	25/04	Geography	A
+Thomas Fowler	25/04	GP	C
+Fernando Thomas	25/04	Math	S
+Fernando Thomas	25/04	Computing	D
+Fernando Thomas	25/04	Further Math	B
+Fernando Thomas	25/04	Economics	S
+Fernando Thomas	25/04	GP	D
+Jennifer Brock	25/05	Math	S
+Jennifer Brock	25/05	Computing	D
+Jennifer Brock	25/05	Further Math	D
+Jennifer Brock	25/05	Geography	U
+Jennifer Brock	25/05	GP	A
+Cynthia Forbes	25/04	Math	S
+Cynthia Forbes	25/04	Further Math	E
+Cynthia Forbes	25/04	Physics	A
+Cynthia Forbes	25/04	Geography	B
+Cynthia Forbes	25/04	GP	E
+Austin Smith	25/01	Math	B
+Austin Smith	25/01	Chemistry	A
+Austin Smith	25/01	Further Math	C
+Austin Smith	25/01	Geography	U
+Austin Smith	25/01	GP	B
+Samuel Frank	25/03	Math	A
+Samuel Frank	25/03	Chemistry	S
+Samuel Frank	25/03	Physics	C
+Samuel Frank	25/03	Geography	B
+Samuel Frank	25/03	GP	B
+Kathleen Wells	25/01	Math	B
+Kathleen Wells	25/01	Further Math	B
+Kathleen Wells	25/01	Physics	A
+Kathleen Wells	25/01	Geography	E
+Kathleen Wells	25/01	GP	B
+Jessica Ferrell	25/02	Math	E
+Jessica Ferrell	25/02	Chemistry	C
+Jessica Ferrell	25/02	Further Math	B
+Jessica Ferrell	25/02	Economics	B
+Jessica Ferrell	25/02	GP	B
+Jessica Burns	25/02	Math	D
+Jessica Burns	25/02	Chemistry	B
+Jessica Burns	25/02	Further Math	U
+Jessica Burns	25/02	Literature	A
+Jessica Burns	25/02	GP	D
+Kristina Fitzgerald DDS	25/03	Math	C
+Kristina Fitzgerald DDS	25/03	Physics	U
+Kristina Fitzgerald DDS	25/03	Chemistry	A
+Kristina Fitzgerald DDS	25/03	History	A
+Kristina Fitzgerald DDS	25/03	GP	C
+Jason White	25/02	Math	B
+Jason White	25/02	Further Math	B
+Jason White	25/02	Computing	B
+Jason White	25/02	History	A
+Jason White	25/02	GP	U
+Thomas Hill	25/02	Math	C
+Thomas Hill	25/02	Further Math	E
+Thomas Hill	25/02	Computing	U
+Thomas Hill	25/02	Economics	C
+Thomas Hill	25/02	GP	A
+Paul Smith	25/05	Math	A
+Paul Smith	25/05	Computing	B
+Paul Smith	25/05	Chemistry	S
+Paul Smith	25/05	Literature	B
+Paul Smith	25/05	GP	C
+Gabriela Schaefer	25/02	Math	A
+Gabriela Schaefer	25/02	Further Math	S
+Gabriela Schaefer	25/02	Chemistry	B
+Gabriela Schaefer	25/02	History	D
+Gabriela Schaefer	25/02	GP	C
+Alexander Curtis	25/03	Math	B
+Alexander Curtis	25/03	Further Math	D
+Alexander Curtis	25/03	Physics	B
+Alexander Curtis	25/03	History	B
+Alexander Curtis	25/03	GP	E
+Samuel Mclean	25/01	Math	A
+Samuel Mclean	25/01	Computing	S
+Samuel Mclean	25/01	Physics	B
+Samuel Mclean	25/01	Economics	B
+Samuel Mclean	25/01	GP	B
+Debbie Ayala	25/01	Math	B
+Debbie Ayala	25/01	Chemistry	B
+Debbie Ayala	25/01	Further Math	E
+Debbie Ayala	25/01	Economics	B
+Debbie Ayala	25/01	GP	U
+Nicholas Li	25/01	Math	A
+Nicholas Li	25/01	Further Math	E
+Nicholas Li	25/01	Physics	A
+Nicholas Li	25/01	Literature	A
+Nicholas Li	25/01	GP	D
+Brittany Morton	25/01	Math	B
+Brittany Morton	25/01	Physics	C
+Brittany Morton	25/01	Further Math	A
+Brittany Morton	25/01	Geography	S
+Brittany Morton	25/01	GP	B
+Timothy Smith	25/01	Math	B
+Timothy Smith	25/01	Further Math	E
+Timothy Smith	25/01	Computing	C
+Timothy Smith	25/01	Literature	U
+Timothy Smith	25/01	GP	B
+Scott Keller	25/01	Math	C
+Scott Keller	25/01	Chemistry	B
+Scott Keller	25/01	Further Math	C
+Scott Keller	25/01	Literature	B
+Scott Keller	25/01	GP	B
+Kenneth Patel	25/03	Math	B
+Kenneth Patel	25/03	Computing	C
+Kenneth Patel	25/03	Chemistry	A
+Kenneth Patel	25/03	History	S
+Kenneth Patel	25/03	GP	B
+Tony Collins	25/01	Math	U
+Tony Collins	25/01	Further Math	S
+Tony Collins	25/01	Chemistry	S
+Tony Collins	25/01	Literature	S
+Tony Collins	25/01	GP	D
+Keith Taylor	25/05	Math	C
+Keith Taylor	25/05	Computing	B
+Keith Taylor	25/05	Further Math	D
+Keith Taylor	25/05	Geography	B
+Keith Taylor	25/05	GP	A
+Jimmy Jimenez	25/04	Math	U
+Jimmy Jimenez	25/04	Physics	B
+Jimmy Jimenez	25/04	Further Math	B
+Jimmy Jimenez	25/04	Geography	S
+Jimmy Jimenez	25/04	GP	B
+Timothy Anderson	25/01	Math	B
+Timothy Anderson	25/01	Chemistry	E
+Timothy Anderson	25/01	Physics	E
+Timothy Anderson	25/01	Geography	A
+Timothy Anderson	25/01	GP	C
+Timothy Sanchez	25/03	Math	B
+Timothy Sanchez	25/03	Computing	A
+Timothy Sanchez	25/03	Physics	S
+Timothy Sanchez	25/03	Literature	E
+Timothy Sanchez	25/03	GP	B
+Angela Livingston	25/04	Math	B
+Angela Livingston	25/04	Chemistry	A
+Angela Livingston	25/04	Physics	E
+Angela Livingston	25/04	Geography	D
+Angela Livingston	25/04	GP	C
+Leonard Myers	25/04	Math	A
+Leonard Myers	25/04	Further Math	A
+Leonard Myers	25/04	Physics	E
+Leonard Myers	25/04	Economics	S
+Leonard Myers	25/04	GP	C
+Antonio Watson	25/04	Math	C
+Antonio Watson	25/04	Further Math	C
+Antonio Watson	25/04	Computing	B
+Antonio Watson	25/04	Literature	E
+Antonio Watson	25/04	GP	B
+Laura Rollins	25/03	Math	E
+Laura Rollins	25/03	Computing	B
+Laura Rollins	25/03	Chemistry	C
+Laura Rollins	25/03	Literature	B
+Laura Rollins	25/03	GP	S
+Mrs. Christina Clark	25/04	Math	C
+Mrs. Christina Clark	25/04	Chemistry	C
+Mrs. Christina Clark	25/04	Physics	U
+Mrs. Christina Clark	25/04	Literature	A
+Mrs. Christina Clark	25/04	GP	B
+Diana Mayo	25/01	Math	D
+Diana Mayo	25/01	Computing	A
+Diana Mayo	25/01	Physics	D
+Diana Mayo	25/01	Economics	B
+Diana Mayo	25/01	GP	D
+Jennifer Duarte	25/04	Math	C
+Jennifer Duarte	25/04	Further Math	A
+Jennifer Duarte	25/04	Computing	A
+Jennifer Duarte	25/04	Economics	B
+Jennifer Duarte	25/04	GP	S
+Kevin Reynolds	25/05	Math	B
+Kevin Reynolds	25/05	Computing	B
+Kevin Reynolds	25/05	Further Math	B
+Kevin Reynolds	25/05	Geography	B
+Kevin Reynolds	25/05	GP	B
+Tracy Frederick	25/01	Math	B
+Tracy Frederick	25/01	Physics	B
+Tracy Frederick	25/01	Chemistry	D
+Tracy Frederick	25/01	Economics	E
+Tracy Frederick	25/01	GP	E
+Matthew Reyes	25/04	Math	B
+Matthew Reyes	25/04	Computing	B
+Matthew Reyes	25/04	Further Math	E
+Matthew Reyes	25/04	Literature	D
+Matthew Reyes	25/04	GP	B
+Patricia Lyons	25/05	Math	B
+Patricia Lyons	25/05	Further Math	A
+Patricia Lyons	25/05	Physics	D
+Patricia Lyons	25/05	Economics	D
+Patricia Lyons	25/05	GP	C
+Janet Haynes	25/02	Math	B
+Janet Haynes	25/02	Chemistry	B
+Janet Haynes	25/02	Further Math	E
+Janet Haynes	25/02	History	B
+Janet Haynes	25/02	GP	D
+Dennis Miller	25/03	Math	D
+Dennis Miller	25/03	Further Math	E
+Dennis Miller	25/03	Physics	E
+Dennis Miller	25/03	History	B
+Dennis Miller	25/03	GP	C
+Kyle Scott	25/04	Math	E
+Kyle Scott	25/04	Computing	B
+Kyle Scott	25/04	Further Math	D
+Kyle Scott	25/04	Geography	C
+Kyle Scott	25/04	GP	B
+Virginia Hicks	25/02	Math	D
+Virginia Hicks	25/02	Chemistry	B
+Virginia Hicks	25/02	Physics	E
+Virginia Hicks	25/02	Economics	B
+Virginia Hicks	25/02	GP	U
+Julia Hodges	25/04	Math	A
+Julia Hodges	25/04	Computing	B
+Julia Hodges	25/04	Chemistry	A
+Julia Hodges	25/04	History	U
+Julia Hodges	25/04	GP	C
+Chad Davis	25/02	Math	B
+Chad Davis	25/02	Further Math	A
+Chad Davis	25/02	Physics	B
+Chad Davis	25/02	History	E
+Chad Davis	25/02	GP	A
+Pamela Hines	25/04	Math	B
+Pamela Hines	25/04	Chemistry	B
+Pamela Hines	25/04	Physics	C
+Pamela Hines	25/04	Economics	B
+Pamela Hines	25/04	GP	B
+Joseph Armstrong	25/04	Math	U
+Joseph Armstrong	25/04	Physics	B
+Joseph Armstrong	25/04	Chemistry	A
+Joseph Armstrong	25/04	Literature	C
+Joseph Armstrong	25/04	GP	D
+Tracey Perez	25/03	Math	A
+Tracey Perez	25/03	Further Math	E
+Tracey Perez	25/03	Chemistry	S
+Tracey Perez	25/03	Economics	D
+Tracey Perez	25/03	GP	B
+Jody Santos	25/03	Math	D
+Jody Santos	25/03	Further Math	E
+Jody Santos	25/03	Computing	E
+Jody Santos	25/03	History	U
+Jody Santos	25/03	GP	A
+Donald Hernandez	25/01	Math	D
+Donald Hernandez	25/01	Physics	B
+Donald Hernandez	25/01	Computing	B
+Donald Hernandez	25/01	History	E
+Donald Hernandez	25/01	GP	A
+Gabriela Boyle	25/04	Math	A
+Gabriela Boyle	25/04	Further Math	D
+Gabriela Boyle	25/04	Chemistry	A
+Gabriela Boyle	25/04	Economics	E
+Gabriela Boyle	25/04	GP	E
+Courtney Graves	25/04	Math	C
+Courtney Graves	25/04	Further Math	B
+Courtney Graves	25/04	Computing	E
+Courtney Graves	25/04	History	E
+Courtney Graves	25/04	GP	A
+Paul Hahn	25/05	Math	D
+Paul Hahn	25/05	Further Math	E
+Paul Hahn	25/05	Chemistry	B
+Paul Hahn	25/05	Economics	C
+Paul Hahn	25/05	GP	B
+Barbara Weiss	25/02	Math	S
+Barbara Weiss	25/02	Computing	B
+Barbara Weiss	25/02	Physics	A
+Barbara Weiss	25/02	History	E
+Barbara Weiss	25/02	GP	B
+Joseph House	25/04	Math	E
+Joseph House	25/04	Computing	C
+Joseph House	25/04	Chemistry	B
+Joseph House	25/04	Geography	B
+Joseph House	25/04	GP	C
+Darryl Benton	25/01	Math	D
+Darryl Benton	25/01	Computing	D
+Darryl Benton	25/01	Physics	C
+Darryl Benton	25/01	Literature	B
+Darryl Benton	25/01	GP	B
+Mr. Craig Ferguson	25/05	Math	A
+Mr. Craig Ferguson	25/05	Computing	E
+Mr. Craig Ferguson	25/05	Chemistry	B
+Mr. Craig Ferguson	25/05	Economics	B
+Mr. Craig Ferguson	25/05	GP	A
+Jill Weaver	25/01	Math	D
+Jill Weaver	25/01	Chemistry	C
+Jill Weaver	25/01	Computing	E
+Jill Weaver	25/01	History	A
+Jill Weaver	25/01	GP	D
+Brenda Reese	25/03	Math	C
+Brenda Reese	25/03	Chemistry	A
+Brenda Reese	25/03	Physics	E
+Brenda Reese	25/03	Literature	C
+Brenda Reese	25/03	GP	D
+Jessica Pratt	25/03	Math	S
+Jessica Pratt	25/03	Computing	D
+Jessica Pratt	25/03	Physics	D
+Jessica Pratt	25/03	Economics	B
+Jessica Pratt	25/03	GP	C
+Julia Bell	25/01	Math	C
+Julia Bell	25/01	Further Math	B
+Julia Bell	25/01	Computing	S
+Julia Bell	25/01	Literature	C
+Julia Bell	25/01	GP	D
+Samuel Rios	25/01	Math	D
+Samuel Rios	25/01	Further Math	B
+Samuel Rios	25/01	Computing	D
+Samuel Rios	25/01	Economics	C
+Samuel Rios	25/01	GP	B
+Nicole Best	25/01	Math	S
+Nicole Best	25/01	Physics	B
+Nicole Best	25/01	Chemistry	C
+Nicole Best	25/01	Geography	D
+Nicole Best	25/01	GP	A
+Audrey Mcdowell MD	25/01	Math	B
+Audrey Mcdowell MD	25/01	Physics	B
+Audrey Mcdowell MD	25/01	Chemistry	C
+Audrey Mcdowell MD	25/01	Geography	B
+Audrey Mcdowell MD	25/01	GP	C
+Leslie Jackson	25/01	Math	A
+Leslie Jackson	25/01	Physics	U
+Leslie Jackson	25/01	Computing	E
+Leslie Jackson	25/01	History	E
+Leslie Jackson	25/01	GP	B
+Cassandra Wilson	25/03	Math	A
+Cassandra Wilson	25/03	Chemistry	E
+Cassandra Wilson	25/03	Further Math	U
+Cassandra Wilson	25/03	Geography	S
+Cassandra Wilson	25/03	GP	D
+Ellen Bass	25/05	Math	S
+Ellen Bass	25/05	Chemistry	S
+Ellen Bass	25/05	Physics	B
+Ellen Bass	25/05	Literature	E
+Ellen Bass	25/05	GP	B
+Annette George	25/01	Math	D
+Annette George	25/01	Computing	E
+Annette George	25/01	Chemistry	A
+Annette George	25/01	Literature	B
+Annette George	25/01	GP	B
+Daniel Stevens	25/04	Math	E
+Daniel Stevens	25/04	Computing	B
+Daniel Stevens	25/04	Physics	C
+Daniel Stevens	25/04	Economics	S
+Daniel Stevens	25/04	GP	B
