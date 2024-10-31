@@ -22,3 +22,6 @@ Create a function `den_to_hex(num)` that converts denary numbers to hexadecimal 
 Hence, find a suitable way to collapse the 2-D list into a 1-D list so that the list only contains hexadecimal colour codes (format: #000000). <br>
 Example: <br>
 ['#f6a187','#6dec32','#b1a082','#31ecac','#bf061c','#a7cba8','#40957c','#fa2436','#f4ab63']
+
+## Task 1.3
+Implement merge sort on the list you have collapsed in `Task 1.2`. Print the output.
