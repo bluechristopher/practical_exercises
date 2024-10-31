@@ -1,0 +1,7 @@
+Name,Category,GoodID
+shoe,wearable,1
+box,tool,14
+lipstick,fashion,8
+pants,wearable,3
+plushy,entertainment,69
+tv,entertainment,37
